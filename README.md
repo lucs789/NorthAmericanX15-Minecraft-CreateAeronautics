@@ -1,2 +1,2 @@
-# North-American-X-15---Minecraft---Create-Aeronautics
+# NorthAmericanX15-Minecraft-CreateAeronautics
 A replica of the fastest plane ever created made in modded Minecraft
