@@ -4,6 +4,8 @@ Schematic for the North American X-15, made in Minecraft with Create Aeronautics
 Version: Minecraft NeoForge 1.21.1
 Required Mods: Create, Create Aeronautics (Simulated), Create Aeronautics, Create Propulsion: Simulated, Create: Radars, CC: Tweaked, CC: Sable.
 
+[createmodSchematic]
+
 - Survival-friendly;
 
 - Powered by a 3x3x3 multi block rocket engine (16200 pN of thrust on lava);
