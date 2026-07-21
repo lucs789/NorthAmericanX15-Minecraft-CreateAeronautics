@@ -7,7 +7,7 @@ Required Mods: Create, Create Aeronautics (Simulated), Create Aeronautics, Creat
 [createmodSchematic](https://createmod.com/schematics/north-american-x-15)
 
 - Survival-friendly;
-
+- 160 kpg;
 - Powered by a 3x3x3 multi block rocket engine (16200 pN of thrust on lava);
 - 3x3x1 fluid container (72000 mB);
 - Retractable landing gear using sticky pistons and blue ice (sadly grindstones are immovable blocks);
