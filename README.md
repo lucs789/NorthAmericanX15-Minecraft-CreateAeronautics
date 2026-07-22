@@ -5,6 +5,7 @@ Version: Minecraft NeoForge 1.21.1
 Required Mods: Create, Create Aeronautics (Simulated), Create Aeronautics, Create Propulsion: Simulated, Create: Radars, CC: Tweaked, CC: Sable, Create: Copycats+, Create: Interiors.
 
 [createmodSchematic](https://createmod.com/schematics/north-american-x-15)
+[youtubeShowcase](https://youtu.be/uVw7MwBbBXg)
 
 - Survival-friendly;
 - 160 kpg;
@@ -16,5 +17,5 @@ Required Mods: Create, Create Aeronautics (Simulated), Create Aeronautics, Creat
 - Redstone Accumulator for thrust control (Q/E on typewriter);
 - W/A/S/D for roll/pitch/yaw control (be aware that when flying at altitudes above Y-2000, the air pressure is ridiculously low, so the control surfaces won´t work properly. I thought about adding RCS thrusters for high altitudes, like in the real plane, but there was not much space left and nothing small enough that would behave like one);
 - Radar and computer (do not forget to install CC: Sable along with CC: Tweaked) monitors displaying coordinates, engine output, vertical and horizontal speeds (along with Mach speed) and altitude;
-- My max speed achieved on lava was approx. 950 (mysterious unit of measure from getLinearVelocity()), while on gasoline (Create: Diesel Generators) was more than Mach 4 (horizontal speed / 340). The in-game real speed was about 60 blocks per second :(
+- - My max speed achieved on lava was approx. 950 (mysterious unit of measure from getLinearVelocity(). While Velocity Sensor says it´s meters per second, the in-game real speed was about 60 blocks per second), while on gasoline (Create: Diesel Generators) it was more than Mach 4 (horizontal speed / 340).
 - I would also recommend fueling the engine with oxidizer and then gasoline if you want to achieve higher speeds.
