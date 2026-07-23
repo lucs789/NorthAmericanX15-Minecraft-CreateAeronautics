@@ -1,4 +1,4 @@
-# NorthAmericanX15-Minecraft-CreateAeronautics
+# northamericanx15-minecraft-createaeronautics
 Schematic for the North American X-15, made in Minecraft with Create Aeronautics.
 
 Version: Minecraft NeoForge 1.21.1
